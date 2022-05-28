@@ -1,4 +1,5 @@
-# Doublify
+Doublify
+========
 ## Features
 - Converts 4 panel charts to 8 panel.
 - Can batch process recursive folders of songs.
